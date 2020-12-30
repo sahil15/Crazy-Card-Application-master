@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "name": "Student Life Card",
+      "image": "https://ddialhyn49dxu.cloudfront.net/cards/hsbc2018-large.png",
+      "apr": "18.9%",
+      "balanceOfferDuration": "0 months",
+      "purchaseOfferDuration": "6 months",
+      "credit": "£1200",
+      "min_income": 0,
+      "empStatus": "Student"
+    },
+    {
+      "name": "Anywhere Card",
+      "image": "https://ddialhyn49dxu.cloudfront.net/cards/mbna2019-large.png",
+      "apr": "33.9%",
+      "balanceOfferDuration": "0 months",
+      "purchaseOfferDuration": "0 months",
+      "credit": "£300",
+      "min_income": 0,
+      "empStatus": null
+    },
+    {
+      "name": "Liquid Card",
+      "image": "https://ddialhyn49dxu.cloudfront.net/cards/ms-bank-large.png",
+      "apr": "33.9%",
+      "balanceOfferDuration": "12 months",
+      "purchaseOfferDuration": "6 months",
+      "credit": "£3000",
+      "min_income": 16000,
+      "empStatus": null
+    }
+  ]
+}
